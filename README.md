@@ -1,2 +1,2 @@
 # calculator.github.io
-I build standalone but simple calculator with 100 percent Python and Tkinster framework. With auto-py-to-exe, my calculator apps is executable and open source for any user. The application can only be used in windows. 
+I build standalone but simple well designed calculator with 100 percent Python and Tkinster framework. I convert the application with auto-py-to-exe. It is open source and can be used by window user.
